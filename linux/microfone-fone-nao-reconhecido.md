@@ -38,7 +38,7 @@ Essas opções ajudam o sistema a identificar corretamente o microfone do fone d
 
 Após a reinicialização:
 1. Insira novamente o fone de ouvido.
-2. Uma mensagem pode aparecer pedindo para selecionar o tipo de conexão. No meu caso, isso aconteceu após a reinicialização e inserção do fone. Se isso ocorrer, escolha a opção **Headphone**.
+2. Uma mensagem pode aparecer pedindo para selecionar o tipo de conexão. No meu caso, isso aconteceu após a reinicialização e inserção do fone. Se isso ocorrer, escolha a opção **Headset**.
 3. Vá para Configurações > Som e selecione:
 	* **Headphone** como saída de áudio.
 	* **Headset Microphone** como entrada de áudio.
