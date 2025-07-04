@@ -1,5 +1,5 @@
 
-# 🎙️ Resolução: Microfone do Fone de Ouvido Não Reconhecido
+# Microfone do Fone de Ouvido Não Reconhecido
 Este artigo explica como corrigir o problema em que o microfone de um fone de ouvido não é reconhecido no sistema operacional Ubuntu 24.04. Embora o procedimento seja baseado no Ubuntu, é provável que funcione em outras distribuições Linux.
 
 ---
@@ -45,5 +45,4 @@ Após a reinicialização:
 
 ---
 
-## Resultado Esperado
 Após seguir os passos acima, o microfone do seu fone de ouvido deverá estar funcionando corretamente.
